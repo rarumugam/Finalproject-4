@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=rarumugam/finalproject4
+dockerpath=arumdev/finalproject4
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
